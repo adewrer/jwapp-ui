@@ -2,27 +2,14 @@
 
 ## Project setup
 ```
-npm install
+npm i jwapp-ui -S
 ```
+##快速开始
+```javascript
+import jwcell from "jwapp-ui"
+import "jwapp-ui/lib/jwapp-ui.css"
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run lib
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+Vue.use(jwcell)
 ```
 
 ### Customize configuration
