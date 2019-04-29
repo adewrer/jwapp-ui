@@ -17,5 +17,4 @@ Vue.use(jwcell)
 ## 预览
 [点我预览](https://adewrer.github.io/jwapp-ui/dist/index.html#/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ ![Alt](https://raw.githubusercontent.com/adewrer/jwapp-ui/gh-pages/public/qrcode.png)
