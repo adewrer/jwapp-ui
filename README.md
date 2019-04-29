@@ -4,7 +4,7 @@
 ```
 npm i jwapp-ui -S
 ```
-##快速开始
+## 快速开始
 ```javascript
 import jwcell from "jwapp-ui"
 import "jwapp-ui/lib/jwapp-ui.css"
