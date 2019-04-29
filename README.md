@@ -1,6 +1,6 @@
 # jwapp-ui
 
-## Project setup
+## 安装
 ```
 npm i jwapp-ui -S
 ```
@@ -11,6 +11,8 @@ import "jwapp-ui/lib/jwapp-ui.css"
 
 Vue.use(jwcell)
 ```
+## 开源协议
+本项目基于 MIT 协议，请自由地享受和参与开源。
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
